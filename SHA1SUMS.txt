@@ -1,0 +1,7 @@
+Mitsumete Knight (PlayStation) - English translation v1.0.1 - SHA-1 checksums
+
+Your disc image (Track 1, the data track), 666,909,600 bytes
+93652d280a42c73e9b382319101233d61e98a074  before patching: Mitsumete Knight (Japan) (Track 1).bin
+59fd90081b4c20d65299473bc6f3962e40a64ed0  after patching with MitsumeteKnight-EN-v1.0.1.xdelta
+
+Track 2 (the audio track) is not changed.
